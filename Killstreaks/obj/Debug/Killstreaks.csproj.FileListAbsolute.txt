@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Killstreaks\Killstreaks\bin\Debug\Killstreaks.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Killstreaks\Killstreaks\bin\Debug\Killstreaks.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Killstreaks\Killstreaks\bin\Debug\InfinityScript.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Killstreaks\Killstreaks\obj\Debug\Killstreaks.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Killstreaks\Killstreaks\obj\Debug\Killstreaks.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Killstreaks\Killstreaks\obj\Debug\Killstreaks.pdb
